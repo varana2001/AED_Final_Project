@@ -64,25 +64,25 @@ UMS centralizes the management of:
 ## Screenshots
 
 ### Add Professor Interface
-![Add Professor Interface](AED_Final_Project/Group8FinalProject/Documents/1.png)
+![Add Professor Interface](AED_Final_Project/Group8FinalProject/Documents/2.png)
 
 ### Add Police Interface
-![Add Police Interface](AED_Final_Project/Group8FinalProject/Documents/2.png)
+![Add Police Interface](AED_Final_Project/Group8FinalProject/Documents/3.png)
 
 ### Crime Details Interface
-![Crime Details Interface](AED_Final_Project/Group8FinalProject/Documents/3.png)
+![Crime Details Interface](AED_Final_Project/Group8FinalProject/Documents/4.png)
 
 ### Documentation Interface
-![Documentation Interface](AED_Final_Project/Group8FinalProject/Documents/4.png)
+![Documentation Interface](AED_Final_Project/Group8FinalProject/Documents/5.png)
 
 ### Add Bank Employee Interface
-![Add Bank Employee Interface](AED_Final_Project/Group8FinalProject/Documents/5.png)
+![Add Bank Employee Interface](AED_Final_Project/Group8FinalProject/Documents/6.png)
 
 ### Manage Medicines Interface
-![Manage Medicines Interface](AED_Final_Project/Group8FinalProject/Documents/6.png)
+![Manage Medicines Interface](AED_Final_Project/Group8FinalProject/Documents/7.png)
 
 ### Add Student Interface
-![Add Student Interface](AED_Final_Project/Group8FinalProject/Documents/7.png)
+![Add Student Interface](AED_Final_Project/Group8FinalProject/Documents/1.png)
 
 ---
 
